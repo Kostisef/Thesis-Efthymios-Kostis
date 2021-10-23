@@ -8,7 +8,6 @@ The subject of this thesis is the design and development of a **Sentiment Analys
 **Database:&nbsp;&nbsp;&nbsp;** MongoDB<br />
 **Libraries:&nbsp;&nbsp;&nbsp;&nbsp;** TensorFlow, Scikit-learn, Keras, Numpy, Pandas, Matplotlib, Seaborn<br />
 **Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** PyCharm, Google Colab, Jupyter Notebook, Anaconda<br /><br />
-**Website technologies:&nbsp;&nbsp;** <br />
 
 
 <table style="undefined;table-layout: fixed; width: 302px">
