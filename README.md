@@ -4,10 +4,11 @@ View my Thesis: http://hdl.handle.net/10889/13764 <br />
 **Summary**: <br />
 The subject of this thesis is the design and development of a **Sentiment Analysis tool** in product reviews, which will act as a market consultant through a graphical user interface on the web. During the data pre-processing, are used natural language processing techniques and for data transformation the TF-IDF features with unigrams, but also ngrams. Several Machine Learning algorithms are used for Sentiment Analysis, which fall into all categories of learning. The algorithms that stood out are Neural Networks, Random Forests, Multinomial Naive Bayes, as well as LDA for extracting the topics of each review. The predicted sentiment is categorized into three classes, positive, negative and neutral. The data was stored in the non-relational database (NoSQL) MongoDB. This thesis is divided into three main parts. Firstly, the necessary theoretical background of Machine Learning and Sentiment Analysis is presented and after that the system development process is analyzed. Finally, all the results produced, accompanied by some key features of each review, are presented to the end user through a graphical web interface. This interface offers the user the opportunity to search the desired product review, based on certain criteria and to analyze the sentiment predictions that were produced.
 
-**Language:&nbsp;&nbsp;** Python<br />
+**Language:&nbsp;&nbsp;** Python, [PHP, HTML, CSS, JavaScript] → Website Stack<br />
 **Database:&nbsp;&nbsp;&nbsp;** MongoDB<br />
-**Libraries:&nbsp;&nbsp;&nbsp;&nbsp;** TensorFlow, Scikit-learn, Numpy, Pandas, Matplotlib<br />
+**Libraries:&nbsp;&nbsp;&nbsp;&nbsp;** TensorFlow, Scikit-learn, Keras, Numpy, Pandas, Matplotlib, Seaborn<br />
 **Tools:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;** PyCharm, Google Colab, Jupyter Notebook, Anaconda<br /><br />
+**Website technologies:&nbsp;&nbsp;** <br />
 
 
 <table style="undefined;table-layout: fixed; width: 302px">
